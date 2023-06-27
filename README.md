@@ -1,7 +1,4 @@
 <h1 align="center">Wassup 👋, I'm Matheus Piovesan</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-piovesan" alt="m-piovesan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@jovempio" target="blank"><img src="https://img.shields.io/twitter/follow/@jovempio?logo=twitter&style=for-the-badge" alt="@jovempio" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
